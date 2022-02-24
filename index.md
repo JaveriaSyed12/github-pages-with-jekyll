@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Javeria Syed Blog Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hey, I'm Javeria Syed. A CS student and a UI/UX Designer.
